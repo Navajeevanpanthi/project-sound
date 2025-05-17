@@ -1,0 +1,1 @@
+def show(): print('🧮 Bit-depth: 24-bit / 96kHz')

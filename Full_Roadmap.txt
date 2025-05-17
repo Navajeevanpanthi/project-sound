@@ -1,0 +1,8 @@
+PROJECT SOUND – FULL ROADMAP
+
+1. Player engine: FLAC, DSD, MP3, MQA
+2. Tagging: AI metadata, album art
+3. Editor: Waveform editing, karaoke, EQ
+4. Admin Console: Build/export, AI control
+5. Cross-platform: Win/macOS/Android/iOS
+6. Plugins, Themes, Legal Ready

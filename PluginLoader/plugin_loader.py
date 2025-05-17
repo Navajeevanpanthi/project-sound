@@ -1,0 +1,1 @@
+def load(): print('🔌 Plugins loaded.')

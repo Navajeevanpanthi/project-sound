@@ -1,0 +1,1 @@
+def start(): print('🌈 Spectrum visualizer loaded.')

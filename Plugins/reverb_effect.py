@@ -1,0 +1,1 @@
+def apply(): print('🎧 Reverb effect applied.')

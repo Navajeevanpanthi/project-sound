@@ -1,0 +1,1 @@
+print('✅ Simulating Windows EXE build...')

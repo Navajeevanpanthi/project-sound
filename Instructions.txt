@@ -1,0 +1,4 @@
+1. Install Python 3.10+
+2. Navigate to AdminConsole
+3. Run: python admin_console_gui.py
+4. Use Scripts/build_all.bat to simulate build

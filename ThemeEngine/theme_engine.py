@@ -1,0 +1,1 @@
+def generate(): print('🎨 Theme created.')
